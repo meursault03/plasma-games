@@ -1,0 +1,12 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "org.local.plasma.games",
+        "Name": "Plasma Games",
+        "Description": "Five small games for the Plasma panel",
+        "Icon": "applications-games-symbolic",
+        "Category": "Fun and Games",
+        "Version": "0.3.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
